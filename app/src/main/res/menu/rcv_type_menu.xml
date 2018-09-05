@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/bottom"
+    android:title="@string/from_bottom"
+    />
+<!--following option enable default selection-->
+<!--app:showAsAction="ifRoom"-->
+<item android:id="@+id/left"
+    android:title="@string/left_to_right"
+    />
+<item android:id="@+id/right"
+    android:title="@string/Right_to_left" />
+</menu>

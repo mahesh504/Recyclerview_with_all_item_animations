@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rcv_margin">8dp</dimen>
+    <dimen name="rcv_row_corner">8dp</dimen>
+
+    <dimen name="rcv_row_height">100dp</dimen>
+    <dimen name="rcv_row_lyt_margin">5dp</dimen>
+
+
+
+</resources>

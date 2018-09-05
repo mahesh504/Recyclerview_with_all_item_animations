@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recycleview_sample</string>
+    <string name="description_zoom_touch_close">close</string>
+    <string name="description_image_1">sample</string>
+    <string name="from_bottom">from bottom</string>
+    <string name="left_to_right">from left</string>
+    <string name="Right_to_left">Rotate</string>
+</resources>
